@@ -159,6 +159,14 @@ nav ul li a:hover {
   border-radius: 5px;
 }
 
+.form-placeholder form {
+  margin: 0;
+}
+
+.form-label {
+  font-weight: bold;
+}
+
 /* Footer */
 footer {
   background-color: #ffffff;
